@@ -8,7 +8,6 @@ This project aims to build a classification model for Turkish columnists based o
 
 - **Text Preprocessing:**
   - Special character removal
-  - HTML tag removal
   - Lowercase conversion
   - Stopword removal
   - Lemmatization
